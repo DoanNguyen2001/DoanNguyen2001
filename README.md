@@ -1,5 +1,7 @@
-Hi 👋, I'm Kate
-A passionate Data Analyst and Machine Learning
+<h1 align="center">Hi 👋, I'm Kate </h1>
+<h3 align="center">A passionate Data Analyst and Machine Learning</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=doannguyen2001&label=Profile%20views&color=59A3D1&style=flat" alt="doannguyen2001" /> </p>
 
 📄 Know about my experiences [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyen-doan/)
 
