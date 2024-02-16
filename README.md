@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kate </h1>
 <h3 align="center">A self-taught Data Analyst </h3>
 
-<h2> About me:
+<h2> About me: <h2>
 
 I'm a Master students in Swinburne University of Technology with a strong passion for data science, data engineering and machine learning. 
 Since 2023, I'm dedicated to enhance my skills in this field and get a chance to become a Data Analyst at a Higher Education Organisation. 
