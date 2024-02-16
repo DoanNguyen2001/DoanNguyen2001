@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kate </h1>
 <h3 align="center">A self-taught Data Analyst </h3>
 
-<h2> About me: <h2>
+<h2> About me: </h2>
 </p>
 
 I'm a Master students in Swinburne University of Technology with a strong passion for data science, data engineering and machine learning. 
