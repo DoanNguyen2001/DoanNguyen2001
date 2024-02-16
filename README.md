@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kate </h1>
-<h3 align="center">A passionate Data Analyst and Machine Learning</h3>
+<h3 align="center">A self-taught Data Analyst </h3>
+
+<h2> About me:
+
+I'm a Master students in Swinburne University of Technology with a strong passion for data science, data engineering and machine learning. 
+Since 2023, I'm dedicated to enhance my skills in this field and get a chance to become a Data Analyst at a Higher Education Organisation. 
+
+I have completed several professional courses on Coursera, including Google Data Analyst, IBM Data Science. Feel free to check out my certificates on Coursera: 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doannguyen2001&label=Profile%20views&color=59A3D1&style=flat" alt="doannguyen2001" /> </p>
 
